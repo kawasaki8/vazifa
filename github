@@ -1,0 +1,5 @@
+
+son = int(input("Qaysi sonnikki kerak kerak? "))
+
+for i in range(1, 11):
+    print(son, "x", i, "=", son * i)
